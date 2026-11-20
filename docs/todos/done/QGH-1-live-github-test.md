@@ -2,7 +2,8 @@
 ticket: QGH-1
 titel: "Live GitHub Test geändert"
 typ: aufgabe
-status: Offen
+status: Fertig
+loesung: fertig
 prioritaet: high
 zugewiesen:
 autor: qa.ui.admin@example.test
