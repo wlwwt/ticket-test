@@ -15,8 +15,12 @@ labels: []
 
 Absatz aus GitHub.
 
+## Anhänge
+
+- [notiz.txt](../anhaenge/QGH-1/notiz.txt)
+
 ## Kommentare
 
-### 2026-11-20 15:00 · QA Dev
+### 2026-11-20 15:00 · QA Dev · intern <!-- k:49 -->
 
 Kommentar aus GitHub.
