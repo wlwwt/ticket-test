@@ -18,8 +18,13 @@ Absatz aus GitHub.
 ## Anhänge
 
 - [notiz.txt](../anhaenge/QGH-1/notiz.txt)
+- [orbit-anhang.txt](../anhaenge/QGH-1/orbit-anhang.txt)
 
 ## Kommentare
+
+### 2026-11-20 14:48 · QA UI Admin · sichtbar <!-- k:50 -->
+
+Antwort aus Orbit.
 
 ### 2026-11-20 15:00 · QA Dev · intern <!-- k:49 -->
 
